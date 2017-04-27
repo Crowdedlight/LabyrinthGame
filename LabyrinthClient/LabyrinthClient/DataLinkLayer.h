@@ -10,9 +10,9 @@
 #include <iostream>
 #include <mutex>
 
-#include "BeskedNummer\BeskedNummer\DllFrame.hpp"
+#include "DllFrame.hpp"
 #include "Game_State.h"
-#include "CRC\CRC\CRC.hpp"
+#include "CRC.hpp"
 
 class PhysicalLayer;
 

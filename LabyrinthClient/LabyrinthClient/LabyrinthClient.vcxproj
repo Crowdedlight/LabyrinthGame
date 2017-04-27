@@ -31,10 +31,10 @@
     <Image Include="win_screen.png" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BeskedNummer\BeskedNummer\DllFrame.cpp" />
     <ClCompile Include="coords.cpp" />
-    <ClCompile Include="CRC\CRC\CRC.cpp" />
+    <ClCompile Include="CRC.cpp" />
     <ClCompile Include="DataLinkLayer.cpp" />
+    <ClCompile Include="DllFrame.cpp" />
     <ClCompile Include="DTMFSoundRecorder.cpp" />
     <ClCompile Include="Game_State.cpp" />
     <ClCompile Include="Goertzel.cpp" />
@@ -52,10 +52,10 @@
     <ClCompile Include="Winning_Screen.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="BeskedNummer\BeskedNummer\DllFrame.hpp" />
     <ClInclude Include="coords.h" />
-    <ClInclude Include="CRC\CRC\CRC.hpp" />
+    <ClInclude Include="CRC.hpp" />
     <ClInclude Include="DataLinkLayer.h" />
+    <ClInclude Include="DllFrame.hpp" />
     <ClInclude Include="DTMFSoundRecorder.h" />
     <ClInclude Include="Game_State.h" />
     <ClInclude Include="Goertzel.h" />

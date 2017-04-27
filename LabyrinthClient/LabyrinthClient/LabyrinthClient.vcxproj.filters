@@ -98,10 +98,10 @@
     <ClCompile Include="Winning_Screen.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="CRC\CRC\CRC.cpp">
+    <ClCompile Include="CRC.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="BeskedNummer\BeskedNummer\DllFrame.cpp">
+    <ClCompile Include="DllFrame.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -151,10 +151,10 @@
     <ClInclude Include="Winning_Screen.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="CRC\CRC\CRC.hpp">
+    <ClInclude Include="CRC.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="BeskedNummer\BeskedNummer\DllFrame.hpp">
+    <ClInclude Include="DllFrame.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
